@@ -1,0 +1,30 @@
+.justify-between {
+  justify-content: space-between;
+}
+.mb-40px {
+  margin-bottom: 40px;
+}
+.items-start {
+  align-items: flex-start;
+}
+.flex { display: flex;}
+.items-end { align-items: flex-end;}
+
+
+.text-danger {
+  color: rgb(91,235,255);
+}
+.mb-5px { margin-bottom: 5px;}
+.font-bold { font-weight: 700;}
+.text-12px { 
+  font-size: 12px;
+  line-height: 1;
+}
+.text-danger-light, .hover\:text-danger-light:hover, .active\:text-danger-light:active {
+  color: rgb(209,247,255);
+}
+.text-14px {
+  font-size: 14px;
+  line-height: 1;
+}
+
